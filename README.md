@@ -1,14 +1,13 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guhdsrosa/f6172e2d046925e88a571ae7e5ccac85/raw/ad310c456cbd26decbdd07e2aeb24e384830f398/githubcard.svg"/>
 
-## Hi!, I'm Gustavo Rosa
+<h3 align="left">Hi!, I'm Gustavo Rosa</h3>
 <!--<a align="left" width="50%" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&weight=500&size=35&duration=3000&pause=1000&color=F0E4E4&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'+am+Gustavo+Rosa;Welcome+to+my+profile!+%F0%9F%98%86" alt="Typing SVG" /></a>
-
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guhdsrosa&show_icons=true&count_private=true&hide_border=true&title_color=d2c7c7&icon_color=d2c7c7&text_color=b8b8b8&bg_color=0d1117" alt="Gustavo da Silva Rosa github stats" /> 
 </div>-->
 
 <div align="left">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhdsrosa&layout=compact&hide_border=true&title_color=d2c7c7&text_color=b8b8b8&bg_color=0d1117" />
+  <img width="35%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhdsrosa&layout=compact&hide_border=true&title_color=d2c7c7&text_color=b8b8b8&bg_color=0d1117" />
 </div>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guhdsrosa&color=1a1d23" alt="Profile views" /> </p>
