@@ -10,7 +10,7 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhdsrosa&layout=compact&hide_border=true&title_color=d2c7c7&text_color=b8b8b8&bg_color=0d1117" />
 </div>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=1a1d23" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guhdsrosa&color=1a1d23" alt="Profile views" /> </p>
 
 #### Main skills
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
