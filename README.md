@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guhdsrosa/32264ca30e8065e4a3e49a44bbff7a53/raw/9d2535c20fec6396d7711b5f5a03304dda44718b/githubcard.svg"/>
 
-<h3 align="left">Hi!, I'm Gustavo Rosa</h3>
+<h3 align="left">Hello, my name is Gustavo Rosa</h3>
 <!--<a align="left" width="50%" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&weight=500&size=35&duration=3000&pause=1000&color=F0E4E4&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'+am+Gustavo+Rosa;Welcome+to+my+profile!+%F0%9F%98%86" alt="Typing SVG" /></a>
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guhdsrosa&show_icons=true&count_private=true&hide_border=true&title_color=d2c7c7&icon_color=d2c7c7&text_color=b8b8b8&bg_color=0d1117" alt="Gustavo da Silva Rosa github stats" /> 
