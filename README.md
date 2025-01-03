@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guhdsrosa&show_icons=true&count_private=true&hide_border=true&title_color=d2c7c7&icon_color=d2c7c7&text_color=b8b8b8&bg_color=0d1117" alt="Gustavo da Silva Rosa github stats" /> 
 </div>-->
 
-<p>Sou desenvolvedor front-end com 2 anos de experiência e estou sempre buscando aprimorar minhas habilidades para criar interfaces modernas e eficazes. Como desenvolvedor, adoro front-end e estou sempre em busca de conhecimento. Minha paixão pela programação reflete-se no meu comprometimento em criar experiências de usuário atraentes e intuitivas, utilizando as últimas tecnologias e melhores práticas do setor.</p>
+<p>Sou desenvolvedor front-end com 3 anos de experiência e estou sempre buscando aprimorar minhas habilidades para criar interfaces modernas e eficazes. Como desenvolvedor, adoro front-end e estou sempre em busca de conhecimento. Minha paixão pela programação reflete-se no meu comprometimento em criar experiências de usuário atraentes e intuitivas, utilizando as últimas tecnologias e melhores práticas do setor.</p>
 
 <br>
 
