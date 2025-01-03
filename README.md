@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guhdsrosa/32264ca30e8065e4a3e49a44bbff7a53/raw/9d2535c20fec6396d7711b5f5a03304dda44718b/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/guhdsrosa/a2bc07022b4378c726743223dc3de8af/raw/7bc1b91cdb91c608d8f8f93a3bc2b42a386cfd94/githubcard.svg"/>
 
 <h3 align="left">Hello, I'am Gustavo Rosa</h3>
 <!--<a align="left" width="50%" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Saira&weight=500&size=35&duration=3000&pause=1000&color=F0E4E4&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'+am+Gustavo+Rosa;Welcome+to+my+profile!+%F0%9F%98%86" alt="Typing SVG" /></a>
