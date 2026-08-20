@@ -1,22 +1,179 @@
-gustavo@rosa --------------------------------------------
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="620"
+  viewBox="0 0 1200 620"
+>
+  <style>
+    .bg {
+      fill: #0d1117;
+    }
 
-Uptime: ................. 4 years, 3 months, 21 days
-IDE: ............ VSCode 1.134, Android Studio,
-                 Android Studio Quail 3 - 2026.1.3
+    .ascii {
+      fill: #c9d1d9;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 9px;
+      white-space: pre;
+    }
 
-Languages.Programming: ........ TypeScript, JavaScript
-Technologies: ........... Node.js, React, React Native
-Languages.Real: ................ Portuguese, English
+    .normal {
+      fill: #c9d1d9;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 15px;
+    }
 
-Hobbies.Games: ............. Minecraft, Counter-Strike
-Hobbies.Hardware: ..................... Building PCs
+    .title {
+      fill: #f0883e;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 15px;
+    }
 
-Contact -----------------------------------------------
+    .value {
+      fill: #79c0ff;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 15px;
+    }
 
-Email: ......................... gustavodasrosa@gmail.com
-LinkedIn: ................................. Gustavo Rosa
-Discord: ....................................... ch0kitu
+    .dots {
+      fill: #6e7681;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 15px;
+    }
 
-GitHub Stats ------------------------------------------
+    .green {
+      fill: #3fb950;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 15px;
+    }
 
-Username: .................................... guhdsrosa
+    .red {
+      fill: #f85149;
+      font-family: "Consolas", "Courier New", monospace;
+      font-size: 15px;
+    }
+  </style>
+
+  <!-- Fundo -->
+  <rect class="bg" x="0" y="0" width="1200" height="620" rx="8"/>
+
+  <!-- ====================================================== -->
+  <!-- ASCII - LADO ESQUERDO                                  -->
+  <!-- ====================================================== -->
+
+  <text class="ascii" x="18" y="25" xml:space="preserve">
+
+    <tspan x="18" dy="0">                                                           </tspan>
+    <tspan x="18" dy="12">                         . .                              </tspan>
+    <tspan x="18" dy="12">                    .        .                           </tspan>
+    <tspan x="18" dy="12">                    .                   .                </tspan>
+    <tspan x="18" dy="12">                  :   :  .      .                        </tspan>
+    <tspan x="18" dy="12">          .     ..  .            .        . ..           </tspan>
+    <tspan x="18" dy="12">        .   .   .   .     .  .    .                      </tspan>
+    <tspan x="18" dy="12">                :-  .-.  :                       .       </tspan>
+    <tspan x="18" dy="12">        ...   -##-+::=****:..:...               ..       </tspan>
+    <tspan x="18" dy="12">        .  .: #################*#+=-:             .      </tspan>
+    <tspan x="18" dy="12">          :-*#######################+=:...       ..      </tspan>
+    <tspan x="18" dy="12">        :+=#########################*=-::-:..            </tspan>
+    <tspan x="18" dy="12">       : :*#########################+-:.:::-+  .         </tspan>
+    <tspan x="18" dy="12">          ##########################=::::.=-*+.  .       </tspan>
+    <tspan x="18" dy="12">       . ###########################=::::..#+*-.         </tspan>
+    <tspan x="18" dy="12">         ##########################=:.:.:::=###:.        </tspan>
+    <tspan x="18" dy="12">         ########################*.:====-:+*###:.        </tspan>
+    <tspan x="18" dy="12">       #######+##=:::-###########+:.     .:####-         </tspan>
+    <tspan x="18" dy="12">      #*######+*+*##--::-*###*=       ... .+##=: #       </tspan>
+    <tspan x="18" dy="12">      ####:####*- .    .+#               ..:=##..:       </tspan>
+    <tspan x="18" dy="12">      .############+=--=##*###.  .:-:.. #  .### =-       </tspan>
+    <tspan x="18" dy="12">       ##################.####.-..:-::....::*## .        </tspan>
+    <tspan x="18" dy="12">       ##################:####..: :=++==-::+### +        </tspan>
+    <tspan x="18" dy="12">        ######################:.. :-=+#=-::*####         </tspan>
+    <tspan x="18" dy="12">         ##############*######=:: .:===:::.=###          </tspan>
+    <tspan x="18" dy="12">          ####################.-.- :=--.:::###           </tspan>
+    <tspan x="18" dy="12">          ##################:       --::-**+*=           </tspan>
+    <tspan x="18" dy="12">          ##################*#.   ..:::.-*#+*            </tspan>
+    <tspan x="18" dy="12">           ###################*:.  :....+##=+            </tspan>
+    <tspan x="18" dy="12">           :#############*++=-   ..  ...+#+:             </tspan>
+    <tspan x="18" dy="12">             ###############===-.     .:+*=              </tspan>
+    <tspan x="18" dy="12">             =#############*##+. ..   .==-               </tspan>
+    <tspan x="18" dy="12">            . ##########+:.          .:++                </tspan>
+    <tspan x="18" dy="12">           .  ##=###########+:..    .---=                </tspan>
+    <tspan x="18" dy="12">          .   ####+########*=-:.   ..                    </tspan>
+    <tspan x="18" dy="12">          .   ######:***#+-:::    .        ..            </tspan>
+    <tspan x="18" dy="12">         ..   #######*#                                  </tspan>
+    <tspan x="18" dy="12">    .   ...   .#########=-..                             </tspan>
+    <tspan x="18" dy="12">        . .    =##########*=:.                           </tspan>
+    <tspan x="18" dy="12">      ...       =##########*=:...                        </tspan>
+
+  </text>
+
+  <!-- ====================================================== -->
+  <!-- INFORMAÇÕES - LADO DIREITO                             -->
+  <!-- ====================================================== -->
+
+  <!-- Header -->
+  <text x="405" y="40" class="normal">gustavo@rosa</text>
+  <text x="520" y="40" class="dots">--------------------------------------------------------------</text>
+
+  <!-- Uptime -->
+  <text x="405" y="82" class="title">Uptime:</text>
+  <text x="470" y="82" class="dots">............................</text>
+  <text x="700" y="82" class="value">4 years, 3 months, 21 days</text>
+
+  <!-- IDE -->
+  <text x="405" y="110" class="title">IDE:</text>
+  <text x="445" y="110" class="dots">...............................</text>
+  <text x="700" y="110" class="value">VSCode 1.134, Android Studio</text>
+
+  <text x="700" y="134" class="value">
+    Android Studio Quail 3 - 2026.1.3
+  </text>
+
+  <!-- Languages -->
+  <text x="405" y="185" class="title">Languages.Programming:</text>
+  <text x="595" y="185" class="dots">...............</text>
+  <text x="720" y="185" class="value">TypeScript, JavaScript</text>
+
+  <text x="405" y="213" class="title">Technologies:</text>
+  <text x="515" y="213" class="dots">.........................</text>
+  <text x="720" y="213" class="value">Node.js, React, React Native</text>
+
+  <text x="405" y="241" class="title">Languages.Real:</text>
+  <text x="540" y="241" class="dots">......................</text>
+  <text x="720" y="241" class="value">Portuguese, English</text>
+
+  <!-- Hobbies -->
+  <text x="405" y="293" class="title">Hobbies.Games:</text>
+  <text x="530" y="293" class="dots">.......................</text>
+  <text x="720" y="293" class="value">Minecraft, Counter-Strike</text>
+
+  <text x="405" y="321" class="title">Hobbies.Hardware:</text>
+  <text x="555" y="321" class="dots">....................</text>
+  <text x="720" y="321" class="value">Building PCs</text>
+
+  <!-- Contact -->
+  <text x="405" y="374" class="normal">Contact</text>
+  <text x="470" y="374" class="dots">--------------------------------------------------------------------</text>
+
+  <!-- Email -->
+  <text x="405" y="410" class="title">Email:</text>
+  <text x="460" y="410" class="dots">...................................</text>
+  <text x="750" y="410" class="value">gustavodasrosa@gmail.com</text>
+
+  <!-- LinkedIn -->
+  <text x="405" y="438" class="title">LinkedIn:</text>
+  <text x="485" y="438" class="dots">................................</text>
+  <text x="750" y="438" class="value">gustavo-rosa-0806141ab</text>
+
+  <!-- Discord -->
+  <text x="405" y="466" class="title">Discord:</text>
+  <text x="475" y="466" class="dots">...................................</text>
+  <text x="750" y="466" class="value">ch0kitu</text>
+
+  <!-- GitHub -->
+  <text x="405" y="522" class="normal">GitHub Stats</text>
+  <text x="515" y="522" class="dots">-------------------------------------------------------------</text>
+
+  <text x="405" y="558" class="title">Username:</text>
+  <text x="485" y="558" class="dots">................................</text>
+  <text x="750" y="558" class="value">guhdsrosa</text>
+
+</svg>
