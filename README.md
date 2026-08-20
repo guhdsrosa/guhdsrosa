@@ -1,4 +1,4 @@
-<p>
+<p style='font-family: Consolas, "Courier New", Courier, monospace; white-space: pre; line-height: 1.2; letter-spacing: 0;'>
                                        
                  .  .                
            ..                        
