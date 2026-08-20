@@ -12,7 +12,7 @@
     .ascii {
       fill: #c9d1d9;
       font-family: "Consolas", "Courier New", monospace;
-      font-size: 10px;
+      font-size: 9px;
       white-space: pre;
     }
 
