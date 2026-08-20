@@ -47,8 +47,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="30">gustavo@rosa</tspan> -———————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Linux</tspan>
 <!-- <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">4 years, 3 months, 21 days</tspan> -->
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value" id="age_data">4 years, 3 months, 21 days</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode 1.134, Android Studio 2026.1.3</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">4 years, 3 months, 21 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode 1.134, Android Studio 2026.1.3</tspan>
 <!-- <tspan x="390" y="150" class="cc">. </tspan> -->
 <tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
 <tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Technologies</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React Native, React, Node.js</tspan>
