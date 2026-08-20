@@ -1,5 +1,5 @@
 <div>
-  <p style="letter-spacing: 5px; line-height: 1.2rem; font-family: Consolas, "Courier New", Courier, monospace;">
+  <p style="letter-spacing: 25px; line-height: 1.2rem; font-family: Consolas, "Courier New", Courier, monospace;">
                                          
                    .  .                
              ..                        
