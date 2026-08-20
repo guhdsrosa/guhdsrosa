@@ -63,6 +63,6 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">gustavo-rosa-0806141ab</tspan>
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">ch0kitu</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Username</tspan>:<tspan class="cc" id="repo_data_dots"> ...................................... </tspan><tspan class="value" id="repo_data">guhdsrosa</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Username</tspan>:<tspan class="cc" id="repo_data_dots"> ..................................... </tspan><tspan class="value" id="repo_data">guhdsrosa</tspan>
 </text>
 </svg>
